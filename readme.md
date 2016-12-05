@@ -1,9 +1,8 @@
-# ecovadis-frontend
+# Ng-workshop
 
 #### More Information
 
 ## Installation
 
-- npm install -g ng6-cli (https://github.com/UltimateSoftware/ng6-cli)
 - npm install
-- ng6 serve
+- npm run dev
